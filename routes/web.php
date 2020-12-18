@@ -1,5 +1,6 @@
 <?php
 /**Hola mario**/
+/**Hola que tal*/
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
